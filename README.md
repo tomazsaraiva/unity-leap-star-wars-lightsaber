@@ -6,6 +6,3 @@ https://developer.leapmotion.com/unity#100
 
 Sounds were downloaded from 
 http://www.theforce.net/fanfilms/postproduction/soundfx/saberfx_fergo.asp
-
-# How to use it
-http://addcomponent.com/star-wars-lightsaber-unity-leap
